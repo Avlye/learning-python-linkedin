@@ -32,3 +32,4 @@ Getting good foundations of Python Syntax, especially Python 3 instead of Python
 - Working with Web
   - [x] Fetching Internet Data
   - [x] Working with JSON data
+  - [x] Parsing HTML data
