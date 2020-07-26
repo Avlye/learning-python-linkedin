@@ -20,4 +20,4 @@ Getting good foundations of Python Syntax, especially Python 3 instead of Python
   - [x] Basics
   - [x] Formatting
   - [x] Timedelta
-  - [ ] Calendar
+  - [x] Calendar
