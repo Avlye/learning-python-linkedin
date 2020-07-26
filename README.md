@@ -19,4 +19,5 @@ Getting good foundations of Python Syntax, especially Python 3 instead of Python
 - Date / Time Manipulation
   - [x] Basics
   - [x] Formatting
-  - [x] TimeDelta
+  - [x] Timedelta
+  - [ ] Calendar
