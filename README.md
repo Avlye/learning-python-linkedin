@@ -9,3 +9,10 @@ Getting good foundations of Python Syntax, especially Python 3 instead of Python
 ## Lessons Learned
 
 - Installing Python & Editor
+- Basic Syntax:
+  - [x] Variable
+  - [x] Expressions
+  - [x] Functions
+  - [x] Conditionals
+  - [x] Loops
+  - [x] Classes
