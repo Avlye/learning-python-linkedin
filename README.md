@@ -28,3 +28,6 @@ Getting good foundations of Python Syntax, especially Python 3 instead of Python
   - [x] Writing, Reading, Appending and Context
   - [x] OS Path Utilities
   - [x] Working with shell utilities
+
+- Working with Web
+  - [x] Fetching Internet Data
