@@ -27,3 +27,4 @@ Getting good foundations of Python Syntax, especially Python 3 instead of Python
 - Working with files
   - [x] Writing, Reading, Appending and Context
   - [x] OS Path Utilities
+  - [x] Working with shell utilities
