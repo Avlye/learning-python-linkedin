@@ -1,2 +1,2 @@
 # Boring State: Yeah!!!
-print("Hello World")
+print('Hello World')

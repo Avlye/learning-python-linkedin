@@ -1,7 +1,7 @@
 from datetime import timedelta, datetime, date
 
-print("One year from now will be", datetime.now() + timedelta(days=365))
-print("3 weeks from now will be", datetime.now() + timedelta(weeks=3))
+print('One year from now will be', datetime.now() + timedelta(days=365))
+print('3 weeks from now will be', datetime.now() + timedelta(weeks=3))
 
 ## How many days until April Fools
 today = date.today()
@@ -12,4 +12,4 @@ if april_fools_date < today:
 
 time_to_april_fools = april_fools_date - today
 
-print("Days until april fools day: ", time_to_april_fools)
+print('Days until april fools day: ', time_to_april_fools)
