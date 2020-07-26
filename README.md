@@ -16,3 +16,7 @@ Getting good foundations of Python Syntax, especially Python 3 instead of Python
   - [x] Conditionals
   - [x] Loops
   - [x] Classes
+- Date / Time Manipulation
+  - [x] Basics
+  - [x] Formatting
+  - [x] TimeDelta
