@@ -9,6 +9,7 @@ Getting good foundations of Python Syntax, especially Python 3 instead of Python
 ## Lessons Learned
 
 - Installing Python & Editor
+
 - Basic Syntax:
   - [x] Variable
   - [x] Expressions
@@ -16,8 +17,13 @@ Getting good foundations of Python Syntax, especially Python 3 instead of Python
   - [x] Conditionals
   - [x] Loops
   - [x] Classes
+
 - Date / Time Manipulation
   - [x] Basics
   - [x] Formatting
   - [x] Timedelta
   - [x] Calendar
+
+- Working with files
+  - [x] Writing, Reading, Appending and Context
+  - [ ] OS Path Utilities
